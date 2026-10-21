@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a6bb6c1-772a-4e71-a4a1-1a532e429ac3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/research-landscape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_v01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments/evidence_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments/extraction_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments/local_llm_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments/model_wrapper_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments/search_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments/test_component_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments/tokenization_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/llm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/llm/local_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/models/author.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/models/paper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/processing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/processing/comparison_reports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/processing/component_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/processing/methodology_aggregation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/processing/methodology_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/processing/paper_pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/processing/pdf_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/processing/text_chunking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/retrieval/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/retrieval/pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/retrieval/semantics_scholar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/storage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/storage/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/storage/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/storage/json_storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/research_landscape/storage/paper_library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_release.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JmdGJpDrbTtVFRgQxvuFSsu40k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.evidence_analysis.executor": "Run",
+    "Python.extraction_test.executor": "Run",
+    "Python.json_storage.executor": "Run",
+    "Python.local_llm_test.executor": "Run",
+    "Python.methodology_extraction.executor": "Run",
+    "Python.model_wrapper_test.executor": "Run",
+    "Python.search_test.executor": "Run",
+    "Python.semantics_scholar.executor": "Run",
+    "Python.tokenization_test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/GitHub/research-landscape/src/research_landscape/processing",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\research-landscape\src\research_landscape\processing" />
+      <recent name="C:\Users\User\Documents\GitHub\research-landscape\src\research_landscape\storage" />
+      <recent name="C:\Users\User\Documents\GitHub\research-landscape\tests" />
+      <recent name="C:\Users\User\Documents\GitHub\research-landscape" />
+      <recent name="C:\Users\User\Documents\GitHub\research-landscape\experiments" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\research-landscape" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.extraction_test">
+    <configuration name="evidence_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="research-landscape" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments/evidence_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extraction_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="research-landscape" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments/extraction_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="local_llm_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="research-landscape" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments/local_llm_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="methodology_extraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="research-landscape" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/research_landscape/processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/research_landscape/processing/methodology_extraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_wrapper_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="research-landscape" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments/model_wrapper_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="paper" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="research-landscape" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/research_landscape/models/paper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.paper" />
+      <item itemvalue="Python.evidence_analysis" />
+      <item itemvalue="Python.extraction_test" />
+      <item itemvalue="Python.local_llm_test" />
+      <item itemvalue="Python.methodology_extraction" />
+      <item itemvalue="Python.model_wrapper_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.extraction_test" />
+        <item itemvalue="Python.evidence_analysis" />
+        <item itemvalue="Python.methodology_extraction" />
+        <item itemvalue="Python.model_wrapper_test" />
+        <item itemvalue="Python.local_llm_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a6bb6c1-772a-4e71-a4a1-1a532e429ac3" name="Changes" comment="" />
+      <created>1790270080341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790270080341</updated>
+      <workItem from="1790270081365" duration="75898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/research_landscape$search_test.coverage" NAME="search_test Coverage Results" MODIFIED="1790446801176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments" />
+  </component>
+</project>
